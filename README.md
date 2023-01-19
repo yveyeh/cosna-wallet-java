@@ -4,7 +4,7 @@ A controller to access endpoints in the cosna wallet integration API.
 ## Installation
 Install the cosna_wallet package as follows:
 
-1. Download the package [here](./dist/api.wallet.cosna-1.0.0.jar).
+1. Download the package [here](./dist/).
 2. Add it to your java project by configuring the build path.
 
     ![Configure Build Path](./img/configure_buildpath.png)
