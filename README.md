@@ -24,12 +24,12 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		
-		String master_key = "master_key_yTh7mLB5eB4C1PbMOn3h348HfAAv55Y9";
-    	String private_key = "private_key_6JwbGpw6ZbdM9PRoCNhEPbH7Jm6yTP7i";
+		String master_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    	String private_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXX";
     	String payload = "{\n"
     			+ "    \"amount\": 200,\n"
     			+ "    \"currency\": \"XAF\",\n"
-    			+ "    \"hash\": \"85fd974423b56c15ef2d7ad6e25d9b98\",\n"
+    			+ "    \"hash\": \"XXXXXXXXXXXXXXXXXXXXXXXXXXXX\",\n"
     			+ "    \"return_url\": \"https://www.fb.com\",\n"
     			+ "    \"cancel_url\": \"https://www.yt.com\",\n"
     			+ "    \"callback_url\": \"https://beta.cosna-afrique.com\"\n"
